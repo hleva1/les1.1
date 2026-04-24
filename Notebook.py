@@ -31,7 +31,7 @@ while True:
         new_note = str(input("Enter a new note : "))
         notes[index] = new_note
 
-        # 2 По повному збігу старого напису
+        # 2 По повному збігу старого напису kjkkkkkkkk
     elif command == "u2":
         old_note = str(input("Enter a note : "))
         new_note = str(input("Enter a new note : "))
